@@ -64,7 +64,8 @@ Sie dürfen:
 
 - Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten
 - Bearbeiten — das Material remixen, verändern und darauf aufbauen
-- Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten.
+- Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die 
+Lizenzbedingungen halten.
 
 
 Unter folgenden Bedingungen:
