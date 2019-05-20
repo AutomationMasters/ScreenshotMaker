@@ -1,37 +1,95 @@
-<div id="deed-main-content">
-<div id="deed-disclaimer">
-<div class="summary">
-Offizielle Übersetzungen der Version 4.0 sind in <a href="#languages">anderen Sprachen</a> verfügbar.
-</div>
-</div>
-<div class="shaded">
-<p>Die Creative Commons Corporation (“Creative Commons”) ist keine Rechtsanwaltskanzlei und bietet weder Rechtsdienstleistungen noch Rechtsberatung. Die Verbreitung von Creative Commons Public Licenses führt zu keinem Mandatsverhältnis und keiner sonstigen Rechtsbeziehung. Creative Commons macht seine Lizenzen und die dazugehörigen Informationen so zugänglich, wie sie sind. Creative Commons übernimmt keinerlei Gewährleistung hinsichtlich seiner Lizenzen, jedweder unter deren Bedingungen lizenzierter Materialien oder darauf bezogener Informationen. Creative Commons schließt jegliche Haftung für Schäden, die aus ihrer Verwendung resultieren, so weit wie möglich aus.</p>
-</div>
-<div class="shaded">
-<p><strong>Verwendung der Creative Commons Public Licenses</strong></p>
-<p>Creative Commons Public Licenses sind standardisierte Zusammenstellungen rechtlicher Bedingungen, die Urheber und andere Rechteinhaber verwenden können, um ihre selbst geschaffenen Werke und andere Materialien, die urheberrechtlich oder durch bestimmte andere Rechte geschützt sind, die unten in der Public License genauer benannt werden, zur Nutzung freizugeben. Die folgenden Überlegungen haben lediglich informativen Charakter, sind keineswegs vollständig und nicht Teil unserer Lizenzen.</p>
-<p class="usage-considerations cc-collapsible collapsed"><strong>Überlegungen für Lizenzgeber:</strong> Unsere Public Licenses sind zur Verwendung durch diejenigen gedacht, die rechtlich befugt sind, der Allgemeinheit solche Nutzungen von Material zu erlauben, die sonst durch das Urheberrecht oder bestimmte andere Rechte untersagt wären. Unsere Lizenzen sind unwiderruflich. Lizenzgeber sollten die Bedingungen der Lizenz, die sie auswählen, lesen und verstehen, bevor sie die Lizenz verwenden. Lizenzgeber sollten zudem alle erforderlichen Rechte einholen, die für die Verwendung unserer Lizenzen notwendig sind, damit die Allgemeinheit das lizenzierte Material wie erwartet nutzen kann. Lizenzgeber sollten jegliches Material, für welches die Lizenz nicht gilt, klar kenntlich machen. Das gilt auch für anderes CC-lizenziertes Material und für Material, das gemäß einer urheberrechtlichen Beschränkung oder Ausnahme genutzt wird. <a href="//wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors">Weitere Überlegungen für Lizenzgeber finden Sie im Creative Commons Wiki (in Englisch).</a><a href="#" class="cc-collapsible__trigger"><span><img src="/images/deed/svg/deed_arrow_orange.svg"></span></a></p>
-<p class="usage-considerations cc-collapsible collapsed"><strong>Überlegungen für die Allgemeinheit:</strong> Durch die Verwendung einer unserer Public Licenses gibt ein Lizenzgeber der Allgemeinheit die Erlaubnis, das lizenzierte Material unter bestimmten Bedingungen zu nutzen. Falls die Erlaubnis des Lizenzgebers aus irgendwelchen Gründen gar nicht erforderlich ist – beispielsweise wegen einer urheberrechtlichen Ausnahme oder Beschränkung – dann wird die entsprechende Nutzung auch nicht durch die Lizenz geregelt. Die Erlaubnisse in unseren Lizenzen beziehen sich nur auf das Urheberrecht und bestimmte andere Rechte, hinsichtlich derer der Lizenzgeber Erlaubnisse geben kann. Die Nutzung des lizenzierten Materials kann aber dennoch aus anderen Gründen untersagt sein, etwa weil Dritte Urheber- oder andere Rechte am Material haben. Ein Lizenzgeber kann auch besondere Wünsche haben, etwa indem er dazu auffordert, alle Veränderungen zu kennzeichnen oder zu beschreiben. Obwohl dies dann nicht verpflichtend im Sinne unserer Lizenzen ist, sollten Sie sich bemühen, derlei Wünschen nach Möglichkeit nachzukommen.
+# License
+
+Die Creative Commons Corporation (“Creative Commons”) ist keine Rechtsanwaltskanzlei und bietet weder
+Rechtsdienstleistungen noch Rechtsberatung. Die Verbreitung von Creative Commons Public Licenses führt
+zu keinem Mandatsverhältnis und keiner sonstigen Rechtsbeziehung. Creative Commons macht seine Lizenzen
+und die dazugehörigen Informationen so zugänglich, wie sie sind. Creative Commons übernimmt keinerlei
+Gewährleistung hinsichtlich seiner Lizenzen, jedweder unter deren Bedingungen lizenzierter Materialien
+oder darauf bezogener Informationen. Creative Commons schließt jegliche Haftung für Schäden, die aus
+ihrer Verwendung resultieren, so weit wie möglich aus.
+
+**Verwendung der Creative Commons Public Licenses**
+
+Creative Commons Public Licenses sind standardisierte Zusammenstellungen rechtlicher Bedingungen, die
+Urheber und andere Rechteinhaber verwenden können, um ihre selbst geschaffenen Werke und andere Materialien,
+die urheberrechtlich oder durch bestimmte andere Rechte geschützt sind, die unten in der Public License
+genauer benannt werden, zur Nutzung freizugeben. Die folgenden Überlegungen haben lediglich informativen
+Charakter, sind keineswegs vollständig und nicht Teil unserer Lizenzen.
+
+<strong>Überlegungen für Lizenzgeber:</strong> Unsere Public Licenses sind zur Verwendung durch diejenigen
+gedacht, die rechtlich befugt sind, der Allgemeinheit solche Nutzungen von Material zu erlauben, die sonst
+durch das Urheberrecht oder bestimmte andere Rechte untersagt wären. Unsere Lizenzen sind unwiderruflich.
+Lizenzgeber sollten die Bedingungen der Lizenz, die sie auswählen, lesen und verstehen, bevor sie die Lizenz
+verwenden. Lizenzgeber sollten zudem alle erforderlichen Rechte einholen, die für die Verwendung unserer
+Lizenzen notwendig sind, damit die Allgemeinheit das lizenzierte Material wie erwartet nutzen kann. Lizenzgeber
+ sollten jegliches Material, für welches die Lizenz nicht gilt, klar kenntlich machen. Das gilt auch für
+ anderes CC-lizenziertes Material und für Material, das gemäß einer urheberrechtlichen Beschränkung oder
+ Ausnahme genutzt wird. <a href="//wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors">
+   Weitere Überlegungen für Lizenzgeber finden Sie im Creative Commons Wiki (in Englisch).</a>
+
+
+<strong>Überlegungen für die Allgemeinheit:</strong> Durch die Verwendung einer unserer Public Licenses gibt
+ein Lizenzgeber der Allgemeinheit die Erlaubnis, das lizenzierte Material unter bestimmten Bedingungen zu nutzen.
+Falls die Erlaubnis des Lizenzgebers aus irgendwelchen Gründen gar nicht erforderlich ist – beispielsweise wegen
+einer urheberrechtlichen Ausnahme oder Beschränkung – dann wird die entsprechende Nutzung auch nicht durch die
+Lizenz geregelt. Die Erlaubnisse in unseren Lizenzen beziehen sich nur auf das Urheberrecht und bestimmte andere
+Rechte, hinsichtlich derer der Lizenzgeber Erlaubnisse geben kann. Die Nutzung des lizenzierten Materials kann
+aber dennoch aus anderen Gründen untersagt sein, etwa weil Dritte Urheber- oder andere Rechte am Material haben.
+Ein Lizenzgeber kann auch besondere Wünsche haben, etwa indem er dazu auffordert, alle Veränderungen zu
+kennzeichnen oder zu beschreiben. Obwohl dies dann nicht verpflichtend im Sinne unserer Lizenzen ist, sollten
+Sie sich bemühen, derlei Wünschen nach Möglichkeit nachzukommen.
 <a href="//wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees">Weitere Überlegungen für die Allgemeinheit finden Sie im Creative Commons Wiki (in Englisch).</a><a href="#" class="cc-collapsible__trigger"><span><img src="/images/deed/svg/deed_arrow_orange.svg"></span></a></p>
-</div>
-<h3>Creative Commons Namensnennung-Keine Bearbeitungen 4.0 International Public License</h3>
-<p>Durch die Ausübung der lizenzierten Rechte (wie unten definiert) erklären Sie sich rechtsverbindlich mit den Bedingungen dieser Creative Commons Namensnennung – Keine Bearbeitungen 4.0 International Public License (“Public License”) einverstanden. Soweit die vorliegende Public License als Lizenzvertrag anzusehen ist, gewährt Ihnen der Lizenzgeber die in der Public License genannten lizenzierten Rechte im Gegenzug dafür, dass Sie die Lizenzbedingungen akzeptieren, und gewährt Ihnen die entsprechenden Rechte in Hinblick auf Vorteile, die der Lizenzgeber durch das Verfügbarmachen des lizenzierten Materials unter diesen Bedingungen hat.</p>
-<p id="s1"><strong>Abschnitt 1 – Definitionen</strong></p>
-<ol type="a">
-<li id="s1a"><strong>Abgewandeltes Material</strong> bezeichnet Material, welches durch Urheberrechte oder ähnliche Rechte geschützt ist und vom lizenzierten Material abgeleitet ist oder darauf aufbaut und in welchem das lizenzierte Material übersetzt, verändert, umarrangiert, umgestaltet oder anderweitig modifiziert in einer Weise enthalten ist, die aufgrund des Urheberrechts oder ähnlicher Rechte des Lizenzgebers eine Zustimmung erfordert. Im Sinne der vorliegenden Public License entsteht immer abgewandeltes Material, wenn das lizenzierte Material ein Musikwerk, eine Darbietung oder eine Tonaufnahme ist und zur Vertonung von Bewegtbildern verwendet wird.</li>
-<li id="s1b"><strong>Urheberrecht und ähnliche Rechte</strong> bezeichnet das Urheberrecht und/oder ähnliche, dem Urheberrecht eng verwandte Rechte, einschließlich insbesondere des Rechts des ausübenden Künstlers, des Rechts zur Sendung, zur Tonaufnahme und des Sui-generis-Datenbankrechts, unabhängig davon, wie diese Rechte genannt oder kategorisiert werden. Im Sinne der vorliegenden Public License werden die in Abschnitt <a href="#s2b">2(b)(1)-(2)</a> aufgeführten Rechte nicht als Urheberrecht und ähnliche Rechte angesehen.</li>
-<li id="s1c"><strong>Wirksame technische Schutzmaßnahmen</strong> bezeichnet solche Maßnahmen, die gemäß gesetzlichen Regelungen auf der Basis des Artikels 11 des WIPO Copyright Treaty vom 20. Dezember 1996 und/oder ähnlicher internationaler Vereinbarungen ohne entsprechende Erlaubnis nicht umgangen werden dürfen.</li>
-<li id="s1d"><strong>Ausnahmen und Beschränkungen</strong> bezeichnet Fair Use, Fair Dealing und/oder jegliche andere Ausnahme oder Beschränkung des Urheberrechts oder ähnlicher Rechte, die auf Ihre Nutzung des lizenzierten Materials Anwendung findet.</li>
-<li id="s1e"><strong>Lizenziertes Material</strong> bezeichnet das Werk der Literatur oder Kunst, die Datenbank oder das sonstige Material, welches der Lizenzgeber unter die vorliegende Public License gestellt hat.</li>
-<li id="s1f"><strong>Lizenzierte Rechte</strong> bezeichnet die Ihnen unter den Bedingungen der vorliegenden Public License gewährten Rechte, welche auf solche Urheberrechte und ähnlichen Rechte beschränkt sind, die Ihre Nutzung des lizenzierten Materials betreffen und die der Lizenzgeber zu lizenzieren berechtigt ist.</li>
-<li id="s1g"><strong>Lizenzgeber</strong> bezeichnet die natürliche(n) oder juristische(n) Person(en), die unter der vorliegenden Public License Rechte gewährt (oder gewähren).</li>
-<li id="s1h"><strong>Weitergabe</strong> meint, Material der Öffentlichkeit bereitzustellen durch beliebige Mittel oder Verfahren, die gemäß der lizenzierten Rechte Zustimmung erfordern, wie zum Beispiel Vervielfältigung, öffentliche Vorführung, öffentliche Darbietung, Vertrieb, Verbreitung, Wiedergabe oder Übernahme und öffentliche Zugänglichmachung bzw. Verfügbarmachung in solcher Weise, dass Mitglieder der Öffentlichkeit auf das Material von Orten und zu Zeiten ihrer Wahl zugreifen können.</li>
-<li id="s1i"><strong>Sui-generis Datenbankrechte</strong> bezeichnet Rechte, die keine Urheberrechte sind, sondern gegründet sind auf die Richtlinie 96/9/EG des Europäischen Parlaments und des Rates vom 11. März 1996 über den rechtlichen Schutz von Datenbanken in der jeweils gültigen Fassung bzw. deren Nachfolgeregelungen, sowie andere im Wesentlichen funktionsgleiche Rechte anderswo auf der Welt.</li>
-<li id="s1j"><strong>Sie</strong> bezeichnet die natürliche oder juristische Person, die von lizenzierten Rechten unter der vorliegenden Public License Gebrauch macht. <strong>Ihr bzw. Ihre</strong> hat die entsprechende Bedeutung.</li>
-</ol>
-<p id="s2"><strong>Abschnitt 2 – Umfang</strong></p>
-<ol type="a">
-<li id="s2a"><strong>Lizenzgewährung</strong>
+
+
+### Creative Commons Namensnennung-Keine Bearbeitungen 4.0 International Public License
+Durch die Ausübung der lizenzierten Rechte (wie unten definiert) erklären Sie sich rechtsverbindlich mit den
+Bedingungen dieser Creative Commons Namensnennung – Keine Bearbeitungen 4.0 International Public License
+(“Public License”) einverstanden. Soweit die vorliegende Public License als Lizenzvertrag anzusehen ist, gewährt
+Ihnen der Lizenzgeber die in der Public License genannten lizenzierten Rechte im Gegenzug dafür, dass Sie die
+Lizenzbedingungen akzeptieren, und gewährt Ihnen die entsprechenden Rechte in Hinblick auf Vorteile, die der
+Lizenzgeber durch das Verfügbarmachen des lizenzierten Materials unter diesen Bedingungen hat.
+
+<strong>Abschnitt 1 – Definitionen</strong>
+
+- <strong>Abgewandeltes Material</strong> bezeichnet Material, welches durch Urheberrechte oder ähnliche Rechte
+geschützt ist und vom lizenzierten Material abgeleitet ist oder darauf aufbaut und in welchem das lizenzierte
+Material übersetzt, verändert, umarrangiert, umgestaltet oder anderweitig modifiziert in einer Weise enthalten
+ist, die aufgrund des Urheberrechts oder ähnlicher Rechte des Lizenzgebers eine Zustimmung erfordert. Im Sinne
+der vorliegenden Public License entsteht immer abgewandeltes Material, wenn das lizenzierte Material ein
+Musikwerk, eine Darbietung oder eine Tonaufnahme ist und zur Vertonung von Bewegtbildern verwendet wird.
+- <strong>Urheberrecht und ähnliche Rechte</strong> bezeichnet das Urheberrecht und/oder ähnliche, dem Urheberrecht
+ eng verwandte Rechte, einschließlich insbesondere des Rechts des ausübenden Künstlers, des Rechts zur Sendung,
+ zur Tonaufnahme und des Sui-generis-Datenbankrechts, unabhängig davon, wie diese Rechte genannt oder kategorisiert
+ werden. Im Sinne der vorliegenden Public License werden die in Abschnitt <a href="#s2b">2(b)(1)-(2)</a>
+ aufgeführten Rechte nicht als Urheberrecht und ähnliche Rechte angesehen.
+- <strong>Wirksame technische Schutzmaßnahmen</strong> bezeichnet solche Maßnahmen, die gemäß gesetzlichen R
+egelungen auf der Basis des Artikels 11 des WIPO Copyright Treaty vom 20. Dezember 1996 und/oder ähnlicher
+internationaler Vereinbarungen ohne entsprechende Erlaubnis nicht umgangen werden dürfen.
+- <strong>Ausnahmen und Beschränkungen</strong> bezeichnet Fair Use, Fair Dealing und/oder jegliche andere
+Ausnahme oder Beschränkung des Urheberrechts oder ähnlicher Rechte, die auf Ihre Nutzung des lizenzierten
+Materials Anwendung findet.
+- <strong>Lizenziertes Material</strong> bezeichnet das Werk der Literatur oder Kunst, die Datenbank oder
+das sonstige Material, welches der Lizenzgeber unter die vorliegende Public License gestellt hat.
+- <strong>Lizenzierte Rechte</strong> bezeichnet die Ihnen unter den Bedingungen der vorliegenden Public
+License gewährten Rechte, welche auf solche Urheberrechte und ähnlichen Rechte beschränkt sind, die Ihre
+Nutzung des lizenzierten Materials betreffen und die der Lizenzgeber zu lizenzieren berechtigt ist.
+- <strong>Lizenzgeber</strong> bezeichnet die natürliche(n) oder juristische(n) Person(en), die unter der
+vorliegenden Public License Rechte gewährt (oder gewähren).
+- <strong>Weitergabe</strong> meint, Material der Öffentlichkeit bereitzustellen durch beliebige Mittel oder
+Verfahren, die gemäß der lizenzierten Rechte Zustimmung erfordern, wie zum Beispiel Vervielfältigung, öffentliche
+Vorführung, öffentliche Darbietung, Vertrieb, Verbreitung, Wiedergabe oder Übernahme und öffentliche
+Zugänglichmachung bzw. Verfügbarmachung in solcher Weise, dass Mitglieder der Öffentlichkeit auf das Material von
+Orten und zu Zeiten ihrer Wahl zugreifen können.
+- <strong>Sui-generis Datenbankrechte</strong> bezeichnet Rechte, die keine Urheberrechte sind, sondern gegründet
+sind auf die Richtlinie 96/9/EG des Europäischen Parlaments und des Rates vom 11. März 1996 über den rechtlichen
+Schutz von Datenbanken in der jeweils gültigen Fassung bzw. deren Nachfolgeregelungen, sowie andere im Wesentlichen
+funktionsgleiche Rechte anderswo auf der Welt.
+- <strong>Sie</strong> bezeichnet die natürliche oder juristische Person, die von lizenzierten Rechten unter der
+vorliegenden Public License Gebrauch macht. <strong>Ihr bzw. Ihre</strong> hat die entsprechende Bedeutung.
+
+<strong>Abschnitt 2 – Umfang</strong>
+
+<strong>Lizenzgewährung</strong>
 <ol>
 <li id="s2a1">Unter den Bedingungen der vorliegenden Public License gewährt der Lizenzgeber Ihnen eine weltweite, vergütungsfreie, nicht unterlizenzierbare, nicht-ausschließliche, unwiderrufliche Lizenz zur Ausübung der lizenzierten Rechte am lizenzierten Material, um:
 <ol type="A">
@@ -42,12 +100,12 @@ Offizielle Übersetzungen der Version 4.0 sind in <a href="#languages">anderen S
 <li id="s2a3"><span style="text-decoration: underline;">Laufzeit</span>. Die Laufzeit der vorliegenden Public License wird in Abschnitt <a href="#s6a">6(a)</a> geregelt.</li>
 <li id="s2a4"><span style="text-decoration: underline;">Medien und Formate; Gestattung technischer Modifikationen</span>. Der Lizenzgeber erlaubt Ihnen, die lizenzierten Rechte in allen bekannten und zukünftig entstehenden Medien und Formaten auszuüben und die dafür notwendigen technischen Modifikationen vorzunehmen. Der Lizenzgeber verzichtet auf jegliche und/oder versichert die Nichtausübung jeglicher Rechte und Befugnisse, Ihnen zu verbieten, technische Modifikationen vorzunehmen, die notwendig sind, um die lizenzierten Rechte ausüben zu können, einschließlich solcher, die zur Umgehung wirksamer technischer Schutzmaßnahmen erforderlich sind. Im Sinne der vorliegenden Public License entsteht kein abgewandeltes Material, soweit lediglich Modifikationen vorgenommen werden, die nach diesem Abschnitt <a href="#s2a4">2(a)(4)</a> zulässig sind.</li>
 <li id="s2a5"><span style="text-decoration: underline;">Nachfolgende Empfänger</span>
-<div class="para">
+
 <ol type="A">
 <li id="s2a5A"><span style="text-decoration: underline;">Angebot des Lizenzgebers – Lizenziertes Material</span>. Jeder Empfänger des lizenzierten Materials erhält automatisch ein Angebot des Lizenzgebers, die lizenzierten Rechte unter den Bedingungen der vorliegenden Public License auzuüben.</li>
 <li id="s2a5B"><span style="text-decoration: underline;">Keine Beschränkungen für nachfolgende Empfänger</span>. Sie dürfen keine zusätzlichen oder abweichenden Bedingungen fordern oder das lizenzierte Material mit solchen belegen oder darauf wirksame technische Maßnahmen anwenden, sofern dadurch die Ausübung der lizenzierten Rechte durch Empfänger des lizenzierten Materials eingeschränkt wird.</li>
 </ol>
-</div>
+
 </li><li id="s2a6"><span style="text-decoration: underline;">Inhaltliche Indifferenz</span>. Die vorliegende Public License begründet nicht die Erlaubnis, zu behaupten oder den Eindruck zu erwecken, dass Sie oder Ihre Nutzung des lizenzierten Materials mit dem Lizenzgeber oder den Zuschreibungsempfängern gemäß Abschnitt <a href="#s3a1Ai">3(a)(1)(A)(i)</a> in Verbindung stehen oder durch ihn gefördert, gutgeheißen oder offiziell anerkannt werden.</li>
 </ol>
 </li><li id="s2b"><p><strong>Sonstige Rechte</strong></p>
@@ -127,4 +185,3 @@ Es sei klargestellt, dass dieser Abschnitt <a href="#s6b">6(b)</a> die Rechte de
 <p class="shaded">Creative Commons ist keine Vertragspartei seiner Public Licenses. Dennoch kann Creative Commons sich dazu entscheiden, eine seiner Public Licenses für selbst publiziertes Material zu verwenden, und ist in diesen Fällen als „Lizenzgeber” zu betrachten. Der Text der Creative Commons Public Licenses selbst wird mittels der <a href="//creativecommons.org/publicdomain/zero/1.0/legalcode">CC0 Verzichtserklärung</a> der Gemeinfreiheit überantwortet. Abgesehen vom begrenzten Zweck, darauf hinzuweisen, dass Material unter einer Creative Commons Public License freigegeben ist, und falls es nicht anderweitig erlaubt wird durch die Creative-Commons-Policies, die unter <a href="//creativecommons.org/policies">creativecommons.org/policies</a> veröffentlicht sind, erlaubt Creative Commons es nicht, dass die Marke “Creative Commons” oder eine andere Marke oder ein anderes Logo von Creative Commons ohne vorherige schriftliche Zustimmung genutzt werden, insbesondere in Verbindung mit nicht autorisierten Veränderungen seiner Public Licenses oder sonstigen Regelungen, Übereinkünften oder Vereinbarungen in Bezug auf die Nutzung lizenzierten Materials. Es sei klargestellt, dass dieser Absatz nicht Teil der Public Licenses ist.<br><br>
 Creative Commons kann kontaktiert werden unter <a href="//creativecommons.org/">creativecommons.org</a>.</p>
 <p class="shaded"><a name="languages">Weitere verfügbare Übersetzungen</a> des Rechtstextes: <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.id">Bahasa Indonesia</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.et">eesti keel</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.eu">euskara</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode">English</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.es">Español</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.fr">français</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.hr">hrvatski</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.it">italiano</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.lv">latviski</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.lt">Lietuvių</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.nl">Nederlands</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.no">norsk</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.pl">polski</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.pt">português</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.fi">suomeksi</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.sv">svenska</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.mi">te reo Māori</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.tr">Türkçe</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.el">Ελληνικά</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.ru">русский</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.uk">українська</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.ar">العربية</a>, <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode.ja">日本語</a>. Bitte lesen Sie die <a href="//wiki.creativecommons.org/FAQ#officialtranslations">FAQ</a> für eingehendere Informationen zu offiziellen Übersetzungen.</p>
-</div>
