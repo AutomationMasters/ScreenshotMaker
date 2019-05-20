@@ -11,5 +11,12 @@ Lade die Screenshot.exe einfach herunter und starte das Programm. Es ist keine w
 
 ## Start
 
+Wähle die **"Art des Screenshots"** im Menü aus:
 
 <img src="https://raw.githubusercontent.com/AutomationMasters/ScreenshotMaker/master/Screenshot3.png" />
+
+#### Option 1: Als Datei speichern
+
+
+
+#### Option 2: In den Zwischenspeicher
