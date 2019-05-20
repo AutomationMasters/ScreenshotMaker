@@ -4,7 +4,7 @@ A easy testing and documatation tool
 <img src="https://raw.githubusercontent.com/AutomationMasters/ScreenshotMaker/master/Screenshot1.png" />
 
 
-### Download
+### Download (Windows only)
 Lade die <a href="https://github.com/AutomationMasters/ScreenshotMaker/raw/master/ScreenshotMaker.exe">Screenshot.exe</a> einfach herunter und starte das Programm. Es ist keine weitere Installation nötig!
 
 <a href="https://github.com/AutomationMasters/ScreenshotMaker/raw/master/ScreenshotMaker.exe"><img src="https://raw.githubusercontent.com/AutomationMasters/ScreenshotMaker/master/Screenshot2.png" /></a>
